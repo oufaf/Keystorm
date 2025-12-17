@@ -1,0 +1,22 @@
+{
+    "name": "uwu",
+    "class": "WARRIOR",
+    "hp": 100,
+    "max_hp": 180,
+    "energy": 50,
+    "max_energy": 100,
+    "gold": 10,
+    "lvl": 1,
+    "xp": 40,
+    "stage": 1,
+    "potions": 2,
+    "atk_bonus": 12,
+    "crit_chance": 0.05,
+    "weapon_lvl": 1,
+    "armor_lvl": 0,
+    "base_def": 0,
+    "total_dmg": 184,
+    "diff_mult": 0.7,
+    "diff_name": "EASY",
+    "kills": 1
+}
